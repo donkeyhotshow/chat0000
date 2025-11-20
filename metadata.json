@@ -1,0 +1,5 @@
+{
+  "name": "Secret Chat 0000",
+  "description": "A secure, text-only modern chat interface for two users. Supports tab-to-tab communication via local storage simulation.",
+  "requestFramePermissions": []
+}
